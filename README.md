@@ -1,1 +1,50 @@
-# Bakery-Landing-Page
+## Bakery-Landing-Page 
+# Project: First Assignment - Rout Academy Course
+This project serves as my first assignment for the Rout Academy Course, where I worked on a simple bakery landing page using HTML, CSS, and Font Awesome icons. The project has been deployed using Surge for easy online access.
+<br> 
+# Key Features
+HTML for structure and content 📝
+CSS for styling the webpage 🎨
+Font Awesome icons for bakery-related visual elements 🍰🍞🥐
+Deployed via Surge for easy online sharing 🚀
+Deployment 
+<br> 
+You can access the live version of this project here:
+Live Project 🌐
+
+Project Overview
+This assignment focused on creating a simple landing page for a bakery business. The page includes key sections such as a hero section, product list, and footer. The webpage was designed with HTML and CSS, and icons from Font Awesome were used to enhance visual appeal.
+
+Main Sections:
+Hero Section: Welcome message and bakery image 🍞
+Products Section: Displaying bakery items such as cakes, pastries, and bread 🎂🥐
+About Section: A brief overview of the bakery 📖
+Footer: Contact information and social links 📱
+Technologies Used
+HTML5 - Structuring the content 🏗️
+CSS3 - Styling the webpage 🎨
+Font Awesome - For bakery-related icons 🍰🍞🥐
+Surge - For deployment 🌐
+Known Issues
+Not Fully Responsive: The page is not designed to be fully responsive. The layout works well on desktop, but responsiveness for mobile or tablet views has not been implemented yet. 📱❌
+Installation
+To run this project locally, follow the instructions below:
+
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/project-name.git
+Navigate into the project directory:
+
+bash
+Copy
+Edit
+cd project-name
+Open the index.html file in your browser to view the landing page.
+
+To-do
+📱 Add media queries for responsiveness
+♿ Improve accessibility features
+🚀 Optimize for mobile devices
