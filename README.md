@@ -53,8 +53,6 @@ This assignment focused on creating a simple landing page for a bakery business.
 
 ## To-do
 - 📱 Add media queries for responsiveness 
---- 
 - ♿ Improve accessibility features 
---- 
 - 🚀 Optimize for mobile devices 
---- 
+
