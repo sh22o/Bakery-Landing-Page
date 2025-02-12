@@ -7,7 +7,10 @@ HTML for structure and content 📝
 CSS for styling the webpage 🎨
 Font Awesome icons for bakery-related visual elements 🍰🍞🥐
 Deployed via Surge for easy online sharing 🚀
-Deployment 
+Deployment  
+## Screenshot
+<img width="947" alt="p2" src="https://github.com/sh22o/bekary/assets/100959685/2ff32dc6-d61a-4f12-9b01-663156dbbace">
+<img width="950" alt="p1" src="https://github.com/sh22o/bekary/assets/100959685/4fcc36ba-9ea0-4083-8340-94d86be2630b">
 <br> 
 You can access the live version of this project here Desktop only:
 Live Project 🌐[https://blushing-action.surge.sh/] 
@@ -33,12 +36,17 @@ Not Fully Responsive: The page is not designed to be fully responsive. The layou
 # Installation
 To run this project locally, follow the instructions below:
 Clone this repository:
-git clone https://github.com/yourusername/project-name.git
+# git clone https://github.com/sh22o/Bakery-Landing-Page.git 
+- 
 # Navigate into the project directory:
-cd project-name
+cd bekary 
+- 
 Open the index.html file in your browser to view the landing page.
 <br> 
 # To-do
-📱 Add media queries for responsiveness
-♿ Improve accessibility features
-🚀 Optimize for mobile devices
+📱 Add media queries for responsiveness 
+-
+♿ Improve accessibility features 
+-
+🚀 Optimize for mobile devices 
+-
