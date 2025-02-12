@@ -9,8 +9,13 @@ Font Awesome icons for bakery-related visual elements 🍰🍞🥐
 Deployed via Surge for easy online sharing 🚀
 Deployment  
 ## Screenshot
-<img width="947" alt="p2" src="https://github.com/sh22o/bekary/assets/100959685/2ff32dc6-d61a-4f12-9b01-663156dbbace">
-<img width="950" alt="p1" src="https://github.com/sh22o/bekary/assets/100959685/4fcc36ba-9ea0-4083-8340-94d86be2630b">
+<img width="953" alt="b4" src="https://github.com/user-attachments/assets/4e660788-d0be-4bb8-bfaf-c2b4a47fe50c" />
+<img width="954" alt="b5" src="https://github.com/user-attachments/assets/072edf6d-b3cb-4ea8-95fc-71c9cb4896d8" />
+<img width="956" alt="b6" src="https://github.com/user-attachments/assets/29371a2d-ed66-4079-bf5e-4c0c84032d7d" />
+<img width="949" alt="b1" src="https://github.com/user-attachments/assets/dfa93bbe-a374-4bb2-8d25-6c990fa9bcc2" />
+<img width="960" alt="b2" src="https://github.com/user-attachments/assets/dac60450-385a-49c8-aa5c-ec841e8a3ccf" />
+<img width="950" alt="b3" src="https://github.com/user-attachments/assets/e8af8daa-5a7e-4702-8cda-cb33db60a4f6" />
+
 <br> 
 You can access the live version of this project here Desktop only:
 Live Project 🌐[https://blushing-action.surge.sh/] 
