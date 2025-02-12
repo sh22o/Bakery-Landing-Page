@@ -38,20 +38,20 @@ Surge - For deployment 🌐
 # Known Issues
 Not Fully Responsive: The page is not designed to be fully responsive. The layout works well on desktop, but responsiveness for mobile or tablet views has not been implemented yet. 📱❌ 
 <br> 
-# Installation
+#Installation
 To run this project locally, follow the instructions below:
 Clone this repository:
-# git clone https://github.com/sh22o/Bakery-Landing-Page.git 
-- 
-# Navigate into the project directory:
+## git clone https://github.com/sh22o/Bakery-Landing-Page.git 
+<br> 
+##  Navigate into the project directory:
 cd bekary 
-- 
+<br> 
 Open the index.html file in your browser to view the landing page.
 <br> 
 # To-do
 📱 Add media queries for responsiveness 
--
+<br>
 ♿ Improve accessibility features 
--
+<br>
 🚀 Optimize for mobile devices 
--
+<br>
