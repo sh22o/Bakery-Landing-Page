@@ -16,29 +16,35 @@ Deployment
 <img width="960" alt="b2" src="https://github.com/user-attachments/assets/dac60450-385a-49c8-aa5c-ec841e8a3ccf" />
 <img width="950" alt="b3" src="https://github.com/user-attachments/assets/e8af8daa-5a7e-4702-8cda-cb33db60a4f6" />
 
-<br> 
-You can access the live version of this project here Desktop only:
+<br>  
+--- 
+## You can access the live version of this project here Desktop only:
 Live Project 🌐[https://blushing-action.surge.sh/] 
-<br>
+<br> 
+--- 
 ## Project Overview
 This assignment focused on creating a simple landing page for a bakery business. The page includes key sections such as a hero section, product list, and footer. The webpage was designed with HTML and CSS, and icons from Font Awesome were used to enhance visual appeal.
-<br> 
+<br>  
+--- 
 # Main Sections:
-Hero Section: Welcome message and bakery image 🍞
-Products Section: Displaying bakery items such as cakes, pastries, and bread 🎂🥐
-About Section: A brief overview of the bakery 📖
-Footer: Contact information and social links 📱
-<br>
-# Technologies Used
-HTML5 - Structuring the content 🏗️
-CSS3 - Styling the webpage 🎨
-Font Awesome - For bakery-related icons 🍰🍞🥐
-Surge - For deployment 🌐
-<br>
-# Known Issues
-Not Fully Responsive: The page is not designed to be fully responsive. The layout works well on desktop, but responsiveness for mobile or tablet views has not been implemented yet. 📱❌ 
+- Hero Section: Welcome message and bakery image 🍞
+- Products Section: Displaying bakery items such as cakes, pastries, and bread 🎂🥐
+- About Section: A brief overview of the bakery 📖
+- Footer: Contact information and social links 📱
 <br> 
-#Installation
+--- 
+# Technologies Used
+- HTML5 - Structuring the content 🏗️
+- CSS3 - Styling the webpage 🎨
+- Font Awesome - For bakery-related icons 🍰🍞🥐
+- Surge - For deployment 🌐
+<br> 
+--- 
+## Known Issues
+- Not Fully Responsive: The page is not designed to be fully responsive. The layout works well on desktop, but responsiveness for mobile or tablet views has not been implemented yet. 📱❌ 
+<br>  
+---
+## Installation
 To run this project locally, follow the instructions below:
 Clone this repository:
 ## git clone https://github.com/sh22o/Bakery-Landing-Page.git 
